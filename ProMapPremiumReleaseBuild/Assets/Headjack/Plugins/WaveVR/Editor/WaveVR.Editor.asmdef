@@ -1,0 +1,12 @@
+{
+    "name": "WaveVR.Editor",
+    "references": [
+        "WaveVR"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

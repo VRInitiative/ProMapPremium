@@ -1,0 +1,12 @@
+{
+    "name": "Oculus.Platform.Editor",
+    "references": [
+        "Oculus.Platform"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

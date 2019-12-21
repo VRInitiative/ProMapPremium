@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: a00a65e48b44e594ba23aed710665d8d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back
+    100002: base
+    100004: base 1
+    100006: buttons
+    100008: buttons1
+    100010: buttons_base
+    100012: buttons_base 1
+    100014: buttons_bases1
+    100016: buttons_bases1 1
+    100018: buttons_bases2
+    100020: buttons_bases2 1
+    100022: buttons_bases3
+    100024: buttons_bases3 1
+    100026: buttons_bases4
+    100028: buttons_bases4 1
+    100030: buttons_bases5
+    100032: buttons_bases5 1
+    100034: buttons_bases6
+    100036: buttons_bases6 1
+    100038: buttons_bases7
+    100040: buttons_bases7 1
+    100042: buttons_bases8
+    100044: buttons_bases8 1
+    100046: buttons_bases9
+    100048: buttons_bases9 1
+    100050: buttons_interact
+    100052: buttons_interact 1
+    100054: buttons_interactable1
+    100056: buttons_interactable1 1
+    100058: buttons_interactable2
+    100060: buttons_interactable3
+    100062: buttons_interactable4
+    100064: buttons_interactable4 1
+    100066: buttons_interactable5
+    100068: buttons_interactable5 1
+    100070: buttons_interactable6
+    100072: buttons_interactable6 1
+    100074: buttons_interactable7
+    100076: buttons_interactable7 1
+    100078: buttons_interactable8
+    100080: buttons_interactable8 1
+    100082: buttons_interactable9
+    100084: buttons_interactable9 1
+    100086: Cabine
+    100088: //RootNode
+    100090: head
+    100092: headbar
+    100094: headbar1
+    100096: left_panel
+    100098: pCube1
+    100100: pCube10
+    100102: pCube11
+    100104: pCube12
+    100106: pCube13
+    100108: pCube14
+    100110: pCube15
+    100112: pCube16
+    100114: pCube17
+    100116: pCube18
+    100118: pCube19
+    100120: pCube2
+    100122: pCube20
+    100124: pCube21
+    100126: pCube3
+    100128: pCube4
+    100130: pCube5
+    100132: pCube6
+    100134: pCube7
+    100136: pCube9
+    100138: right_panel
+    100140: Seat
+    100142: seat
+    400000: back
+    400002: base
+    400004: base 1
+    400006: buttons
+    400008: buttons1
+    400010: buttons_base
+    400012: buttons_base 1
+    400014: buttons_bases1
+    400016: buttons_bases1 1
+    400018: buttons_bases2
+    400020: buttons_bases2 1
+    400022: buttons_bases3
+    400024: buttons_bases3 1
+    400026: buttons_bases4
+    400028: buttons_bases4 1
+    400030: buttons_bases5
+    400032: buttons_bases5 1
+    400034: buttons_bases6
+    400036: buttons_bases6 1
+    400038: buttons_bases7
+    400040: buttons_bases7 1
+    400042: buttons_bases8
+    400044: buttons_bases8 1
+    400046: buttons_bases9
+    400048: buttons_bases9 1
+    400050: buttons_interact
+    400052: buttons_interact 1
+    400054: buttons_interactable1
+    400056: buttons_interactable1 1
+    400058: buttons_interactable2
+    400060: buttons_interactable3
+    400062: buttons_interactable4
+    400064: buttons_interactable4 1
+    400066: buttons_interactable5
+    400068: buttons_interactable5 1
+    400070: buttons_interactable6
+    400072: buttons_interactable6 1
+    400074: buttons_interactable7
+    400076: buttons_interactable7 1
+    400078: buttons_interactable8
+    400080: buttons_interactable8 1
+    400082: buttons_interactable9
+    400084: buttons_interactable9 1
+    400086: Cabine
+    400088: //RootNode
+    400090: head
+    400092: headbar
+    400094: headbar1
+    400096: left_panel
+    400098: pCube1
+    400100: pCube10
+    400102: pCube11
+    400104: pCube12
+    400106: pCube13
+    400108: pCube14
+    400110: pCube15
+    400112: pCube16
+    400114: pCube17
+    400116: pCube18
+    400118: pCube19
+    400120: pCube2
+    400122: pCube20
+    400124: pCube21
+    400126: pCube3
+    400128: pCube4
+    400130: pCube5
+    400132: pCube6
+    400134: pCube7
+    400136: pCube9
+    400138: right_panel
+    400140: Seat
+    400142: seat
+    2100000: lambert1
+    2300000: back
+    2300002: base
+    2300004: base 1
+    2300006: buttons_bases1
+    2300008: buttons_bases1 1
+    2300010: buttons_bases2
+    2300012: buttons_bases2 1
+    2300014: buttons_bases3
+    2300016: buttons_bases3 1
+    2300018: buttons_bases4
+    2300020: buttons_bases4 1
+    2300022: buttons_bases5
+    2300024: buttons_bases5 1
+    2300026: buttons_bases6
+    2300028: buttons_bases6 1
+    2300030: buttons_bases7
+    2300032: buttons_bases7 1
+    2300034: buttons_bases8
+    2300036: buttons_bases8 1
+    2300038: buttons_bases9
+    2300040: buttons_bases9 1
+    2300042: buttons_interactable1
+    2300044: buttons_interactable1 1
+    2300046: buttons_interactable2
+    2300048: buttons_interactable3
+    2300050: buttons_interactable4
+    2300052: buttons_interactable4 1
+    2300054: buttons_interactable5
+    2300056: buttons_interactable5 1
+    2300058: buttons_interactable6
+    2300060: buttons_interactable6 1
+    2300062: buttons_interactable7
+    2300064: buttons_interactable7 1
+    2300066: buttons_interactable8
+    2300068: buttons_interactable8 1
+    2300070: buttons_interactable9
+    2300072: buttons_interactable9 1
+    2300074: head
+    2300076: headbar
+    2300078: headbar1
+    2300080: pCube1
+    2300082: pCube10
+    2300084: pCube11
+    2300086: pCube12
+    2300088: pCube13
+    2300090: pCube14
+    2300092: pCube15
+    2300094: pCube16
+    2300096: pCube17
+    2300098: pCube18
+    2300100: pCube19
+    2300102: pCube2
+    2300104: pCube20
+    2300106: pCube21
+    2300108: pCube3
+    2300110: pCube4
+    2300112: pCube5
+    2300114: pCube6
+    2300116: pCube7
+    2300118: pCube9
+    2300120: seat
+    3300000: back
+    3300002: base
+    3300004: base 1
+    3300006: buttons_bases1
+    3300008: buttons_bases1 1
+    3300010: buttons_bases2
+    3300012: buttons_bases2 1
+    3300014: buttons_bases3
+    3300016: buttons_bases3 1
+    3300018: buttons_bases4
+    3300020: buttons_bases4 1
+    3300022: buttons_bases5
+    3300024: buttons_bases5 1
+    3300026: buttons_bases6
+    3300028: buttons_bases6 1
+    3300030: buttons_bases7
+    3300032: buttons_bases7 1
+    3300034: buttons_bases8
+    3300036: buttons_bases8 1
+    3300038: buttons_bases9
+    3300040: buttons_bases9 1
+    3300042: buttons_interactable1
+    3300044: buttons_interactable1 1
+    3300046: buttons_interactable2
+    3300048: buttons_interactable3
+    3300050: buttons_interactable4
+    3300052: buttons_interactable4 1
+    3300054: buttons_interactable5
+    3300056: buttons_interactable5 1
+    3300058: buttons_interactable6
+    3300060: buttons_interactable6 1
+    3300062: buttons_interactable7
+    3300064: buttons_interactable7 1
+    3300066: buttons_interactable8
+    3300068: buttons_interactable8 1
+    3300070: buttons_interactable9
+    3300072: buttons_interactable9 1
+    3300074: head
+    3300076: headbar
+    3300078: headbar1
+    3300080: pCube1
+    3300082: pCube10
+    3300084: pCube11
+    3300086: pCube12
+    3300088: pCube13
+    3300090: pCube14
+    3300092: pCube15
+    3300094: pCube16
+    3300096: pCube17
+    3300098: pCube18
+    3300100: pCube19
+    3300102: pCube2
+    3300104: pCube20
+    3300106: pCube21
+    3300108: pCube3
+    3300110: pCube4
+    3300112: pCube5
+    3300114: pCube6
+    3300116: pCube7
+    3300118: pCube9
+    3300120: seat
+    4300000: buttons_bases1
+    4300002: buttons_bases2
+    4300004: buttons_bases3
+    4300006: buttons_bases4
+    4300008: buttons_bases5
+    4300010: buttons_bases6
+    4300012: buttons_bases7
+    4300014: buttons_bases8
+    4300016: buttons_bases9
+    4300018: buttons_interactable1
+    4300020: buttons_interactable2
+    4300022: buttons_interactable3
+    4300024: buttons_interactable4
+    4300026: buttons_interactable5
+    4300028: buttons_interactable6
+    4300030: buttons_interactable7
+    4300032: buttons_interactable8
+    4300034: buttons_interactable9
+    4300036: buttons_bases1
+    4300038: buttons_bases2
+    4300040: buttons_bases3
+    4300042: buttons_bases4
+    4300044: buttons_bases5
+    4300046: buttons_bases6
+    4300048: buttons_bases7
+    4300050: buttons_bases8
+    4300052: buttons_bases9
+    4300054: buttons_interactable1
+    4300056: buttons_interactable4
+    4300058: buttons_interactable5
+    4300060: buttons_interactable6
+    4300062: buttons_interactable7
+    4300064: buttons_interactable8
+    4300066: buttons_interactable9
+    4300068: base
+    4300070: pCube1
+    4300072: base
+    4300074: pCube2
+    4300076: headbar
+    4300078: headbar1
+    4300080: seat
+    4300082: back
+    4300084: head
+    4300086: pCube3
+    4300088: pCube4
+    4300090: pCube5
+    4300092: pCube6
+    4300094: pCube7
+    4300096: pCube9
+    4300098: pCube10
+    4300100: pCube11
+    4300102: pCube12
+    4300104: pCube13
+    4300106: pCube14
+    4300108: pCube15
+    4300110: pCube16
+    4300112: pCube17
+    4300114: pCube18
+    4300116: pCube19
+    4300118: pCube20
+    4300120: pCube21
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

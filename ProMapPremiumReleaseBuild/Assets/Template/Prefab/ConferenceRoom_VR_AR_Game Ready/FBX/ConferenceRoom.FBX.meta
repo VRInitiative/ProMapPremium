@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: bce4d072ce04f164c949e3eb9846baa2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CR_Ceiling
+    100004: CR_ChairSet_01_Chair_01
+    100006: CR_ChairSet_01_Chair_02
+    100008: CR_ChairSet_01_Chair_03
+    100010: CR_ChairSet_01_Chair_04
+    100012: CR_ChairSet_02_Chair01
+    100014: CR_ChairSet_02_Chair02
+    100016: CR_ChairSet_02_Chair03
+    100018: CR_ChairSet_02_Chair04
+    100020: CR_ChairSet_03_Chair01
+    100022: CR_ChairSet_03_Chair02
+    100024: CR_ChairSet_04_Chair_01
+    100026: CR_ChairSet_04_Chair_02
+    100028: CR_ChairSet_04_Chair_03
+    100030: CR_ChairSet_04_Chair_04
+    100032: CR_CT
+    100034: CR_Door
+    100036: CR_Floor
+    100038: CR_Leaves
+    100040: CR_Mirophone
+    100042: CR_Mirophone_MeshPart0
+    100044: CR_Mirophone_MeshPart1
+    100046: CR_Mirophone_MeshPart2
+    100048: CR_Painting
+    100050: CR_Plant
+    100052: CR_Spot_Light
+    100054: CR_Table
+    100056: CR_Table_Props
+    100058: CR_Wall_02
+    100060: CR_Wood_Panel
+    100062: CT_Background
+    100064: CT_CTV
+    100066: CT_Curtain
+    100068: CT_Window_Wall
+    100070: CT_Wood_Pannels
+    100072: Your Logo Here
+    400000: //RootNode
+    400002: CR_Ceiling
+    400004: CR_ChairSet_01_Chair_01
+    400006: CR_ChairSet_01_Chair_02
+    400008: CR_ChairSet_01_Chair_03
+    400010: CR_ChairSet_01_Chair_04
+    400012: CR_ChairSet_02_Chair01
+    400014: CR_ChairSet_02_Chair02
+    400016: CR_ChairSet_02_Chair03
+    400018: CR_ChairSet_02_Chair04
+    400020: CR_ChairSet_03_Chair01
+    400022: CR_ChairSet_03_Chair02
+    400024: CR_ChairSet_04_Chair_01
+    400026: CR_ChairSet_04_Chair_02
+    400028: CR_ChairSet_04_Chair_03
+    400030: CR_ChairSet_04_Chair_04
+    400032: CR_CT
+    400034: CR_Door
+    400036: CR_Floor
+    400038: CR_Leaves
+    400040: CR_Mirophone
+    400042: CR_Mirophone_MeshPart0
+    400044: CR_Mirophone_MeshPart1
+    400046: CR_Mirophone_MeshPart2
+    400048: CR_Painting
+    400050: CR_Plant
+    400052: CR_Spot_Light
+    400054: CR_Table
+    400056: CR_Table_Props
+    400058: CR_Wall_02
+    400060: CR_Wood_Panel
+    400062: CT_Background
+    400064: CT_CTV
+    400066: CT_Curtain
+    400068: CT_Window_Wall
+    400070: CT_Wood_Pannels
+    400072: Your Logo Here
+    2300000: CR_Ceiling
+    2300002: CR_ChairSet_01_Chair_01
+    2300004: CR_ChairSet_01_Chair_02
+    2300006: CR_ChairSet_01_Chair_03
+    2300008: CR_ChairSet_01_Chair_04
+    2300010: CR_ChairSet_02_Chair01
+    2300012: CR_ChairSet_02_Chair02
+    2300014: CR_ChairSet_02_Chair03
+    2300016: CR_ChairSet_02_Chair04
+    2300018: CR_ChairSet_03_Chair01
+    2300020: CR_ChairSet_03_Chair02
+    2300022: CR_ChairSet_04_Chair_01
+    2300024: CR_ChairSet_04_Chair_02
+    2300026: CR_ChairSet_04_Chair_03
+    2300028: CR_ChairSet_04_Chair_04
+    2300030: CR_CT
+    2300032: CR_Door
+    2300034: CR_Floor
+    2300036: CR_Leaves
+    2300038: CR_Mirophone_MeshPart0
+    2300040: CR_Mirophone_MeshPart1
+    2300042: CR_Mirophone_MeshPart2
+    2300044: CR_Painting
+    2300046: CR_Plant
+    2300048: CR_Spot_Light
+    2300050: CR_Table
+    2300052: CR_Table_Props
+    2300054: CR_Wall_02
+    2300056: CR_Wood_Panel
+    2300058: CT_Background
+    2300060: CT_CTV
+    2300062: CT_Curtain
+    2300064: CT_Window_Wall
+    2300066: CT_Wood_Pannels
+    2300068: Your Logo Here
+    3300000: CR_Ceiling
+    3300002: CR_ChairSet_01_Chair_01
+    3300004: CR_ChairSet_01_Chair_02
+    3300006: CR_ChairSet_01_Chair_03
+    3300008: CR_ChairSet_01_Chair_04
+    3300010: CR_ChairSet_02_Chair01
+    3300012: CR_ChairSet_02_Chair02
+    3300014: CR_ChairSet_02_Chair03
+    3300016: CR_ChairSet_02_Chair04
+    3300018: CR_ChairSet_03_Chair01
+    3300020: CR_ChairSet_03_Chair02
+    3300022: CR_ChairSet_04_Chair_01
+    3300024: CR_ChairSet_04_Chair_02
+    3300026: CR_ChairSet_04_Chair_03
+    3300028: CR_ChairSet_04_Chair_04
+    3300030: CR_CT
+    3300032: CR_Door
+    3300034: CR_Floor
+    3300036: CR_Leaves
+    3300038: CR_Mirophone_MeshPart0
+    3300040: CR_Mirophone_MeshPart1
+    3300042: CR_Mirophone_MeshPart2
+    3300044: CR_Painting
+    3300046: CR_Plant
+    3300048: CR_Spot_Light
+    3300050: CR_Table
+    3300052: CR_Table_Props
+    3300054: CR_Wall_02
+    3300056: CR_Wood_Panel
+    3300058: CT_Background
+    3300060: CT_CTV
+    3300062: CT_Curtain
+    3300064: CT_Window_Wall
+    3300066: CT_Wood_Pannels
+    3300068: Your Logo Here
+    4300000: CR_Floor
+    4300002: CT_Background
+    4300004: CT_Window_Wall
+    4300006: CT_Wood_Pannels
+    4300008: CR_Ceiling
+    4300010: CR_Wood_Panel
+    4300012: CT_Curtain
+    4300014: CR_Painting
+    4300016: CR_Spot_Light
+    4300018: CR_Wall_02
+    4300020: CT_CTV
+    4300022: CR_CT
+    4300024: CR_Mirophone_MeshPart0
+    4300026: CR_Mirophone_MeshPart1
+    4300028: CR_Mirophone_MeshPart2
+    4300030: CR_Door
+    4300032: CR_ChairSet_01_Chair_01
+    4300034: CR_Leaves
+    4300036: CR_Plant
+    4300038: CR_ChairSet_01_Chair_02
+    4300040: CR_ChairSet_03_Chair01
+    4300042: CR_ChairSet_01_Chair_03
+    4300044: CR_ChairSet_03_Chair02
+    4300046: CR_ChairSet_01_Chair_04
+    4300048: CR_Table
+    4300050: Your Logo Here
+    4300052: CR_Table_Props
+    4300054: CR_ChairSet_02_Chair02
+    4300056: CR_ChairSet_02_Chair01
+    4300058: CR_ChairSet_02_Chair03
+    4300060: CR_ChairSet_02_Chair04
+    4300062: CR_ChairSet_04_Chair_01
+    4300064: CR_ChairSet_04_Chair_02
+    4300066: CR_ChairSet_04_Chair_04
+    4300068: CR_ChairSet_04_Chair_03
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_CT
+    second: {fileID: 2100000, guid: 430e4362b0bfd2b488b81e1c51a8f8e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_CTV
+    second: {fileID: 2100000, guid: 42be847a18f7ac3489519c982da4108e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_Ceiling
+    second: {fileID: 2100000, guid: 90ed8f925145dae4891c55476b49b945, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_ChairSet_01
+    second: {fileID: 2100000, guid: 8295f2b41967ab64d99735763e134481, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_ChairSet_02
+    second: {fileID: 2100000, guid: 67e92e47b6592fa409ca3873d5d5e380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_ChairSet_03
+    second: {fileID: 2100000, guid: 217443cac36d98c4faa0ce11fbeea8c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_ChairSet_03A
+    second: {fileID: 2100000, guid: 59d25620c83df504f83f0d2f5666db59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_ChairSet_04
+    second: {fileID: 2100000, guid: ab45aa69655a12748adf031ee1c7c84d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_Door
+    second: {fileID: 2100000, guid: c88b319edf2c8874ca45416635c3343d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_Floor
+    second: {fileID: 2100000, guid: 2d97253dbb01c364bacf059673fc78f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_Leaves
+    second: {fileID: 2100000, guid: 34f2bd2e2b9c30c41b0b5525210da5b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_Mirophone
+    second: {fileID: 2100000, guid: 59910a055d90dca4fb091cb31cbbfad1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_Painting
+    second: {fileID: 2100000, guid: 035e35aaf745f734bbbfc9aa36188cb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_Plant
+    second: {fileID: 2100000, guid: ae9bbc707099768419f18323bfc4dcfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_Spot_Light
+    second: {fileID: 2100000, guid: 359a736f693617f48bea24c2f5eab1af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_Table
+    second: {fileID: 2100000, guid: 3e82bc0d37774b04d8ffb9fd614eae0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_Table_Glass
+    second: {fileID: 2100000, guid: 9c7cae0ebc49fa04480841395b048588, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_Table_Props
+    second: {fileID: 2100000, guid: 5bb3b26159743f145b17569e4c4cc254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_Wall_02
+    second: {fileID: 2100000, guid: da31ae4cf4b190b4fa0052f6645b5e10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CR_Wood_Panel
+    second: {fileID: 2100000, guid: ad61811f8ffea524faed4b49e055a32d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CT_Background
+    second: {fileID: 2100000, guid: 60e317ee2bb377443a3abb35d6e84992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CT_Curtain
+    second: {fileID: 2100000, guid: 1ff5a6e91a882d144a2b7a1ccf335db0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CT_Window_Wall
+    second: {fileID: 2100000, guid: 7d3a41d298fa2be4badec38e0a6ac788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CT_Wood_Pannels
+    second: {fileID: 2100000, guid: 1b726f1f37379244c810aedcc1d54819, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Your Logo Here
+    second: {fileID: 2100000, guid: 5f9801a1df2f0494eb1b4ff90e94e7a6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

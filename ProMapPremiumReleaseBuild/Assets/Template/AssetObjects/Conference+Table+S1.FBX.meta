@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: eb92423e2352f0f478ae645fa57162c8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 22 Books 010
+    100002: 22 Books 011
+    100004: 22 Books 012
+    100006: 22 Books017
+    100008: 22 Books018
+    100010: 22 Books021
+    100012: 22 Books022
+    100014: 22 Books023
+    100016: 22 Books024
+    100018: 22 Books025
+    100020: 22 Books026
+    100022: 22 Books027
+    100024: apple_macbook_air_base
+    100026: apple_macbook_air_base001
+    100028: apple_macbook_air_top
+    100030: apple_macbook_air_top001
+    100032: Books1
+    100034: Books2
+    100036: Books3
+    100038: //RootNode
+    100040: Group009
+    100042: Group012
+    100044: Group013
+    100046: macbook_air1
+    100048: macbook_air2
+    100050: Object015
+    100052: Object017
+    100054: Object018
+    100056: Object019
+    100058: Object020
+    100060: Object021
+    100062: Object022
+    100064: Object023
+    100066: SRG Vitra Part008
+    100068: SRG Vitra Part009
+    100070: SRG Vitra Part010
+    100072: SRG Vitra Part011
+    100074: SRG Vitra Part012
+    100076: SRG Vitra Part013
+    100078: SRG Vitra Part014
+    100080: SRG Vitra Part07
+    100082: Table002
+    100084: Table003
+    100086: Table004
+    100088: Table1
+    400000: 22 Books 010
+    400002: 22 Books 011
+    400004: 22 Books 012
+    400006: 22 Books017
+    400008: 22 Books018
+    400010: 22 Books021
+    400012: 22 Books022
+    400014: 22 Books023
+    400016: 22 Books024
+    400018: 22 Books025
+    400020: 22 Books026
+    400022: 22 Books027
+    400024: apple_macbook_air_base
+    400026: apple_macbook_air_base001
+    400028: apple_macbook_air_top
+    400030: apple_macbook_air_top001
+    400032: Books1
+    400034: Books2
+    400036: Books3
+    400038: //RootNode
+    400040: Group009
+    400042: Group012
+    400044: Group013
+    400046: macbook_air1
+    400048: macbook_air2
+    400050: Object015
+    400052: Object017
+    400054: Object018
+    400056: Object019
+    400058: Object020
+    400060: Object021
+    400062: Object022
+    400064: Object023
+    400066: SRG Vitra Part008
+    400068: SRG Vitra Part009
+    400070: SRG Vitra Part010
+    400072: SRG Vitra Part011
+    400074: SRG Vitra Part012
+    400076: SRG Vitra Part013
+    400078: SRG Vitra Part014
+    400080: SRG Vitra Part07
+    400082: Table002
+    400084: Table003
+    400086: Table004
+    400088: Table1
+    2100000: Interstuhl_Famos_08
+    2100002: Vitra .4 Chrome SRG
+    2100004: Interstuhl_Famos_01
+    2100006: Interstuhl_Famos_03
+    2100008: Chrome
+    2100010: Wood
+    2100012: Wood1
+    2100014: aluminum
+    2100016: grey_rubber
+    2100018: macair_logo
+    2100020: speaker_holes
+    2100022: LCD
+    2100024: black_plastic_blured
+    2100026: glass
+    2100028: white
+    2100030: dark_plastic
+    2100032: chrome
+    2100034: grey_plastic
+    2100036: buttons
+    2100038: black_plastic_glossy
+    2100040: gold
+    2100042: 'Material #145'
+    2100044: 'Material #158'
+    2100046: 'Material #157'
+    2300000: 22 Books017
+    2300002: 22 Books018
+    2300004: 22 Books021
+    2300006: 22 Books022
+    2300008: 22 Books023
+    2300010: 22 Books024
+    2300012: 22 Books025
+    2300014: 22 Books026
+    2300016: 22 Books027
+    2300018: apple_macbook_air_base
+    2300020: apple_macbook_air_base001
+    2300022: apple_macbook_air_top
+    2300024: apple_macbook_air_top001
+    2300026: Object015
+    2300028: Object017
+    2300030: Object018
+    2300032: Object019
+    2300034: Object020
+    2300036: Object021
+    2300038: Object022
+    2300040: Object023
+    2300042: SRG Vitra Part008
+    2300044: SRG Vitra Part009
+    2300046: SRG Vitra Part010
+    2300048: SRG Vitra Part011
+    2300050: SRG Vitra Part012
+    2300052: SRG Vitra Part013
+    2300054: SRG Vitra Part014
+    2300056: SRG Vitra Part07
+    3300000: 22 Books017
+    3300002: 22 Books018
+    3300004: 22 Books021
+    3300006: 22 Books022
+    3300008: 22 Books023
+    3300010: 22 Books024
+    3300012: 22 Books025
+    3300014: 22 Books026
+    3300016: 22 Books027
+    3300018: apple_macbook_air_base
+    3300020: apple_macbook_air_base001
+    3300022: apple_macbook_air_top
+    3300024: apple_macbook_air_top001
+    3300026: Object015
+    3300028: Object017
+    3300030: Object018
+    3300032: Object019
+    3300034: Object020
+    3300036: Object021
+    3300038: Object022
+    3300040: Object023
+    3300042: SRG Vitra Part008
+    3300044: SRG Vitra Part009
+    3300046: SRG Vitra Part010
+    3300048: SRG Vitra Part011
+    3300050: SRG Vitra Part012
+    3300052: SRG Vitra Part013
+    3300054: SRG Vitra Part014
+    3300056: SRG Vitra Part07
+    4300000: SRG Vitra Part07
+    4300002: Object015
+    4300004: Object017
+    4300006: Object018
+    4300008: Object019
+    4300010: Object020
+    4300012: Object023
+    4300014: Object021
+    4300016: Object022
+    4300018: SRG Vitra Part008
+    4300020: SRG Vitra Part009
+    4300022: SRG Vitra Part010
+    4300024: SRG Vitra Part011
+    4300026: SRG Vitra Part012
+    4300028: SRG Vitra Part013
+    4300030: SRG Vitra Part014
+    4300032: apple_macbook_air_top
+    4300034: apple_macbook_air_base
+    4300036: apple_macbook_air_base001
+    4300038: apple_macbook_air_top001
+    4300040: 22 Books017
+    4300042: 22 Books018
+    4300044: 22 Books021
+    4300046: 22 Books022
+    4300048: 22 Books023
+    4300050: 22 Books024
+    4300052: 22 Books025
+    4300054: 22 Books026
+    4300056: 22 Books027
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

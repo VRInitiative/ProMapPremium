@@ -1,0 +1,8 @@
+{
+    "name": "Oculus.Platform",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

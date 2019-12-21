@@ -1,0 +1,12 @@
+{
+    "name": "Pico.Editor",
+    "references": [
+        "Pico"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

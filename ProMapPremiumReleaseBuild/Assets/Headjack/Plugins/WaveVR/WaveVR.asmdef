@@ -1,0 +1,10 @@
+{
+    "name": "WaveVR",
+    "references": [
+        "SimpleJSON"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

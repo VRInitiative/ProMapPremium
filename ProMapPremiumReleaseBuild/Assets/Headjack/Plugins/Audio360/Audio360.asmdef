@@ -1,0 +1,10 @@
+{
+    "name": "Audio360",
+    "references": [
+        "Oculus.VR"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

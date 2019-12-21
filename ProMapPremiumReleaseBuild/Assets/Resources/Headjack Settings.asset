@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2046690484, guid: af7b3d86c0b694b4a8d62c311297ee7a, type: 3}
+  m_Name: Headjack Settings
+  m_EditorClassIdentifier: 
+  appID: 27c7e19a28d536f11cdedd441f586b8b
+  AUTHKey: c270d3a8a01ea9171e27b839b581d0ec0dde7bbe19e02a6c
+  Platform: 0
+  Device: 1
+  Store: 0
+  DevBucket: 0

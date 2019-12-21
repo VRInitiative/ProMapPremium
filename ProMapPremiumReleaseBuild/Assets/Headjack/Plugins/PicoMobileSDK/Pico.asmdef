@@ -1,0 +1,11 @@
+{
+    "name": "Pico",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "iOS",
+        "tvOS"
+    ],
+    "allowUnsafeCode": false
+}

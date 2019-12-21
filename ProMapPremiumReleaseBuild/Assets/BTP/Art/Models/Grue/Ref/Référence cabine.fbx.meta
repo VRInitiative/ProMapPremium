@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: 53a39b960dc92b74582132467fb7d4f3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back
+    100002: base
+    100004: base 1
+    100006: buttons
+    100008: buttons1
+    100010: buttons_base
+    100012: buttons_base 1
+    100014: buttons_bases1
+    100016: buttons_bases1 1
+    100018: buttons_bases2
+    100020: buttons_bases2 1
+    100022: buttons_bases3
+    100024: buttons_bases3 1
+    100026: buttons_bases4
+    100028: buttons_bases4 1
+    100030: buttons_bases5
+    100032: buttons_bases5 1
+    100034: buttons_bases6
+    100036: buttons_bases6 1
+    100038: buttons_bases7
+    100040: buttons_bases7 1
+    100042: buttons_bases8
+    100044: buttons_bases8 1
+    100046: buttons_bases9
+    100048: buttons_bases9 1
+    100050: buttons_interact
+    100052: buttons_interact 1
+    100054: buttons_interactable1
+    100056: buttons_interactable1 1
+    100058: buttons_interactable2
+    100060: buttons_interactable2 1
+    100062: buttons_interactable3
+    100064: buttons_interactable3 1
+    100066: buttons_interactable4
+    100068: buttons_interactable4 1
+    100070: buttons_interactable5
+    100072: buttons_interactable5 1
+    100074: buttons_interactable6
+    100076: buttons_interactable6 1
+    100078: buttons_interactable7
+    100080: buttons_interactable7 1
+    100082: buttons_interactable8
+    100084: buttons_interactable8 1
+    100086: buttons_interactable9
+    100088: buttons_interactable9 1
+    100090: Cabine
+    100092: handle
+    100094: handle1
+    100096: handle_interactable
+    100098: handle_interactable 1
+    100100: head
+    100102: headbar
+    100104: headbar1
+    100106: left_panel
+    100108: pCube1
+    100110: pCube10
+    100112: pCube11
+    100114: pCube12
+    100116: pCube13
+    100118: pCube14
+    100120: pCube15
+    100122: pCube16
+    100124: pCube17
+    100126: pCube18
+    100128: pCube19
+    100130: pCube2
+    100132: pCube20
+    100134: pCube21
+    100136: pCube3
+    100138: pCube4
+    100140: pCube5
+    100142: pCube6
+    100144: pCube7
+    100146: pCube9
+    100148: right_button
+    100150: right_button 1
+    100152: right_panel
+    100154: //RootNode
+    100156: Seat
+    100158: seat
+    400000: back
+    400002: base
+    400004: base 1
+    400006: buttons
+    400008: buttons1
+    400010: buttons_base
+    400012: buttons_base 1
+    400014: buttons_bases1
+    400016: buttons_bases1 1
+    400018: buttons_bases2
+    400020: buttons_bases2 1
+    400022: buttons_bases3
+    400024: buttons_bases3 1
+    400026: buttons_bases4
+    400028: buttons_bases4 1
+    400030: buttons_bases5
+    400032: buttons_bases5 1
+    400034: buttons_bases6
+    400036: buttons_bases6 1
+    400038: buttons_bases7
+    400040: buttons_bases7 1
+    400042: buttons_bases8
+    400044: buttons_bases8 1
+    400046: buttons_bases9
+    400048: buttons_bases9 1
+    400050: buttons_interact
+    400052: buttons_interact 1
+    400054: buttons_interactable1
+    400056: buttons_interactable1 1
+    400058: buttons_interactable2
+    400060: buttons_interactable2 1
+    400062: buttons_interactable3
+    400064: buttons_interactable3 1
+    400066: buttons_interactable4
+    400068: buttons_interactable4 1
+    400070: buttons_interactable5
+    400072: buttons_interactable5 1
+    400074: buttons_interactable6
+    400076: buttons_interactable6 1
+    400078: buttons_interactable7
+    400080: buttons_interactable7 1
+    400082: buttons_interactable8
+    400084: buttons_interactable8 1
+    400086: buttons_interactable9
+    400088: buttons_interactable9 1
+    400090: Cabine
+    400092: handle
+    400094: handle1
+    400096: handle_interactable
+    400098: handle_interactable 1
+    400100: head
+    400102: headbar
+    400104: headbar1
+    400106: left_panel
+    400108: pCube1
+    400110: pCube10
+    400112: pCube11
+    400114: pCube12
+    400116: pCube13
+    400118: pCube14
+    400120: pCube15
+    400122: pCube16
+    400124: pCube17
+    400126: pCube18
+    400128: pCube19
+    400130: pCube2
+    400132: pCube20
+    400134: pCube21
+    400136: pCube3
+    400138: pCube4
+    400140: pCube5
+    400142: pCube6
+    400144: pCube7
+    400146: pCube9
+    400148: right_button
+    400150: right_button 1
+    400152: right_panel
+    400154: //RootNode
+    400156: Seat
+    400158: seat
+    2100000: lambert1
+    2300000: back
+    2300002: base
+    2300004: base 1
+    2300006: buttons_bases1
+    2300008: buttons_bases1 1
+    2300010: buttons_bases2
+    2300012: buttons_bases2 1
+    2300014: buttons_bases3
+    2300016: buttons_bases3 1
+    2300018: buttons_bases4
+    2300020: buttons_bases4 1
+    2300022: buttons_bases5
+    2300024: buttons_bases5 1
+    2300026: buttons_bases6
+    2300028: buttons_bases6 1
+    2300030: buttons_bases7
+    2300032: buttons_bases7 1
+    2300034: buttons_bases8
+    2300036: buttons_bases8 1
+    2300038: buttons_bases9
+    2300040: buttons_bases9 1
+    2300042: buttons_interactable1
+    2300044: buttons_interactable1 1
+    2300046: buttons_interactable2
+    2300048: buttons_interactable2 1
+    2300050: buttons_interactable3
+    2300052: buttons_interactable3 1
+    2300054: buttons_interactable4
+    2300056: buttons_interactable4 1
+    2300058: buttons_interactable5
+    2300060: buttons_interactable5 1
+    2300062: buttons_interactable6
+    2300064: buttons_interactable6 1
+    2300066: buttons_interactable7
+    2300068: buttons_interactable7 1
+    2300070: buttons_interactable8
+    2300072: buttons_interactable8 1
+    2300074: buttons_interactable9
+    2300076: buttons_interactable9 1
+    2300078: handle_interactable
+    2300080: handle_interactable 1
+    2300082: head
+    2300084: headbar
+    2300086: headbar1
+    2300088: pCube1
+    2300090: pCube10
+    2300092: pCube11
+    2300094: pCube12
+    2300096: pCube13
+    2300098: pCube14
+    2300100: pCube15
+    2300102: pCube16
+    2300104: pCube17
+    2300106: pCube18
+    2300108: pCube19
+    2300110: pCube2
+    2300112: pCube20
+    2300114: pCube21
+    2300116: pCube3
+    2300118: pCube4
+    2300120: pCube5
+    2300122: pCube6
+    2300124: pCube7
+    2300126: pCube9
+    2300128: right_button
+    2300130: right_button 1
+    2300132: seat
+    3300000: back
+    3300002: base
+    3300004: base 1
+    3300006: buttons_bases1
+    3300008: buttons_bases1 1
+    3300010: buttons_bases2
+    3300012: buttons_bases2 1
+    3300014: buttons_bases3
+    3300016: buttons_bases3 1
+    3300018: buttons_bases4
+    3300020: buttons_bases4 1
+    3300022: buttons_bases5
+    3300024: buttons_bases5 1
+    3300026: buttons_bases6
+    3300028: buttons_bases6 1
+    3300030: buttons_bases7
+    3300032: buttons_bases7 1
+    3300034: buttons_bases8
+    3300036: buttons_bases8 1
+    3300038: buttons_bases9
+    3300040: buttons_bases9 1
+    3300042: buttons_interactable1
+    3300044: buttons_interactable1 1
+    3300046: buttons_interactable2
+    3300048: buttons_interactable2 1
+    3300050: buttons_interactable3
+    3300052: buttons_interactable3 1
+    3300054: buttons_interactable4
+    3300056: buttons_interactable4 1
+    3300058: buttons_interactable5
+    3300060: buttons_interactable5 1
+    3300062: buttons_interactable6
+    3300064: buttons_interactable6 1
+    3300066: buttons_interactable7
+    3300068: buttons_interactable7 1
+    3300070: buttons_interactable8
+    3300072: buttons_interactable8 1
+    3300074: buttons_interactable9
+    3300076: buttons_interactable9 1
+    3300078: handle_interactable
+    3300080: handle_interactable 1
+    3300082: head
+    3300084: headbar
+    3300086: headbar1
+    3300088: pCube1
+    3300090: pCube10
+    3300092: pCube11
+    3300094: pCube12
+    3300096: pCube13
+    3300098: pCube14
+    3300100: pCube15
+    3300102: pCube16
+    3300104: pCube17
+    3300106: pCube18
+    3300108: pCube19
+    3300110: pCube2
+    3300112: pCube20
+    3300114: pCube21
+    3300116: pCube3
+    3300118: pCube4
+    3300120: pCube5
+    3300122: pCube6
+    3300124: pCube7
+    3300126: pCube9
+    3300128: right_button
+    3300130: right_button 1
+    3300132: seat
+    4300000: buttons_interactable2
+    4300002: buttons_interactable3
+    4300004: right_button
+    4300006: handle_interactable
+    4300008: buttons_bases1
+    4300010: buttons_bases2
+    4300012: buttons_bases3
+    4300014: buttons_bases4
+    4300016: buttons_bases5
+    4300018: buttons_bases6
+    4300020: buttons_bases7
+    4300022: buttons_bases8
+    4300024: buttons_bases9
+    4300026: buttons_interactable1
+    4300028: buttons_interactable2
+    4300030: buttons_interactable3
+    4300032: buttons_interactable4
+    4300034: buttons_interactable5
+    4300036: buttons_interactable6
+    4300038: buttons_interactable7
+    4300040: buttons_interactable8
+    4300042: buttons_interactable9
+    4300044: right_button
+    4300046: handle_interactable
+    4300048: buttons_bases1
+    4300050: buttons_bases2
+    4300052: buttons_bases3
+    4300054: buttons_bases4
+    4300056: buttons_bases5
+    4300058: buttons_bases6
+    4300060: buttons_bases7
+    4300062: buttons_bases8
+    4300064: buttons_bases9
+    4300066: buttons_interactable1
+    4300068: buttons_interactable4
+    4300070: buttons_interactable5
+    4300072: buttons_interactable6
+    4300074: buttons_interactable7
+    4300076: buttons_interactable8
+    4300078: buttons_interactable9
+    4300080: base
+    4300082: pCube1
+    4300084: base
+    4300086: pCube2
+    4300088: headbar
+    4300090: headbar1
+    4300092: seat
+    4300094: back
+    4300096: head
+    4300098: pCube3
+    4300100: pCube4
+    4300102: pCube5
+    4300104: pCube6
+    4300106: pCube7
+    4300108: pCube9
+    4300110: pCube10
+    4300112: pCube11
+    4300114: pCube12
+    4300116: pCube13
+    4300118: pCube14
+    4300120: pCube15
+    4300122: pCube16
+    4300124: pCube17
+    4300126: pCube18
+    4300128: pCube19
+    4300130: pCube20
+    4300132: pCube21
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

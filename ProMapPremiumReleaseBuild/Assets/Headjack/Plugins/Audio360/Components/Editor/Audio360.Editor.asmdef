@@ -1,0 +1,12 @@
+{
+    "name": "Audio360.Editor",
+    "references": [
+        "Audio360"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
